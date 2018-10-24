@@ -3,22 +3,26 @@
         {
             "code": "WV-2171",
             "title": "NAVY WITH CHECK MIX",
-            "fit": "SLIM FIT"
+            "fit": "SLIM FIT",
+            "img":"https://firebasestorage.googleapis.com/v0/b/western-vivid-efd88.appspot.com/o/pics%2Fshirts%2FWV-2121.jpg?alt=media&token=d0e81293-a091-4ffe-9696-b5ea41c462c2"
         },
         {
             "code": "WV-2152",
             "title": "PLAIN WITH DOTTED PRINT",
-            "fit": "SLIM FIT"
+            "fit": "SLIM FIT",
+            "img":"https://firebasestorage.googleapis.com/v0/b/western-vivid-efd88.appspot.com/o/pics%2Fshirts%2FWV-2152.jpg?alt=media&token=7486b61b-b9d4-48cf-ae06-807482ca2a17"
         },
         {
             "code": "WV-2157",
             "title": "BAIGE WITH MAIROON",
-            "fit": "SLIM FIT"
+            "fit": "SLIM FIT",
+            "img":"https://firebasestorage.googleapis.com/v0/b/western-vivid-efd88.appspot.com/o/pics%2Fshirts%2FWV-2157.jpg?alt=media&token=37354ffb-6fda-4856-a6df-aefac1553d4c"
         },
         {
             "code": "WV-2121",
             "title": "DOUBLE COLOR COMBINATION",
-            "fit": "SLIM FIT"
+            "fit": "SLIM FIT",
+            "img":"https://firebasestorage.googleapis.com/v0/b/western-vivid-efd88.appspot.com/o/pics%2Fshirts%2FWV-2171.jpg?alt=media&token=6db58cd1-cf60-4b7e-8313-4fec27fdbfff"
         }
     ]
 }
